@@ -82,7 +82,7 @@ bank-etl-project/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/bank-etl-project.git
+git clone https://github.com/BayanElshaer/bank-etl-project.git
 cd bank-etl-project
 ```
 
